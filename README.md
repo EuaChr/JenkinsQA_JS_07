@@ -1,6 +1,6 @@
 # JenkinsQA_JS_07
 
-**How to start working in our project?**
+**How to start working in our project?***
 
 1. Clone repository to your machine.
 
